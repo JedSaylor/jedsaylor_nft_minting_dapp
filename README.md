@@ -1,24 +1,16 @@
-# Welcome to HashLips 👄
+# Welcome to Jed Saylor 👾
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
+![logo](https://user-images.githubusercontent.com/95023449/143539159-06175af4-7dca-419b-a613-eb3b5fbe2b8f.png)
 
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
+All the code in these repos was created and explained by Jed Saylor on his course.
 
-To find out more please visit:
+To find help please visit:
 
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
+[📺  Instagram](https://www.instagram.com/jedsaylor/)
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
+# Jed Saylor NFT minting dapp 🔥
 
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips NFT minting dapp 🔥
-
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
+![banner](https://user-images.githubusercontent.com/95023449/143539398-718265a8-90a4-43c3-821b-c299f2e40831.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -31,7 +23,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/HashLips/hashlips_nft_minting_dapp.git
+git clone https://github.com/JedSaylor/jedsalor_nft_minting_dapp.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
@@ -122,4 +114,4 @@ npm run build
 
 Now you can host the contents of the build folder on a server.
 
-That's it! you're done.
+That's it! You're done.
